@@ -1,4 +1,4 @@
-package com.bootcamp.customer.entity;
+package com.bootcamp.nttdata.model;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -6,6 +6,6 @@ import lombok.Setter;
 @Getter
 @Setter
 public class CustomerByNumDocRequest {
-	
-   private Integer documentNumber; //ddd
+
+    private Integer documentNumber;
 }
